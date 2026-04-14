@@ -7,7 +7,7 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCuYZzhNJqM2ip3UcxVhfOW1aHb_0WqvRA",
+  apiKey: "",
   authDomain: "trendspot-22085.firebaseapp.com",
   projectId: "trendspot-22085",
   storageBucket: "trendspot-22085.firebasestorage.app",
