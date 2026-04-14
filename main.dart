@@ -8,7 +8,7 @@ void main() async {
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyCuYZzhNJqM2ip3UcxVhfOW1aHb_0WqvRA",
+      apiKey: "",
       authDomain: "trendspot-22085.firebaseapp.com",
       projectId: "trendspot-22085",
       storageBucket: "trendspot-22085.firebasestorage.app",
